@@ -8,10 +8,11 @@ I am passionate about building intelligent software solutions using AI, Machine 
 
 ## 🚀 About Me
 
-- 🎓 B.E. Artificial Intelligence & Data Science
-- 💻 Passionate about AI, Computer Vision & IoT
-- 🌱 Currently learning Advanced Deep Learning & MLOps
-- 🔍 Interested in Software Development and AI Engineering
+- 🎓 B.E. in Artificial Intelligence & Data Science.
+- 🎓 Diploma in Computer Technology from K. K. Wagh Polytechnic, Nashik
+- 💻 Passionate about Artificial Intelligence, Computer Vision, IoT, and Software Development
+- 🌱 Currently learning Deep Learning, MLOps, and Computer Vision
+- 🔍 Interested in AI Engineering, Machine Learning, and Software Development
 - 📍 Nashik, Maharashtra, India
 
 ---
