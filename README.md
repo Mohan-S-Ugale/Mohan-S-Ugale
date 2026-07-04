@@ -65,15 +65,21 @@ I am passionate about building intelligent software solutions using AI, Machine 
 
 ## 📌 Featured Projects
 
-🐆 SentinelEye – ML-Based Wild Animal Intrusion Detection
+🐆 **SentinelEye** – ML-Based Wild Animal Intrusion Detection System Using Raspberry Pi
 
-😊 Human Emotion Detection System
+🌱 **Agri Assist** – NPK-Based Soil Analysis and Crop Recommendation Web Application
 
-🔥 IoT Gas Leakage Detection System
+😊 **Human Emotion Detection System** – Real-Time Emotion Recognition using Deep Learning, CNN, OpenCV, and Flask
 
-📱 Android Mobile Sensor Tester
+🔥 **IoT Gas Leakage Detection System** – Arduino UNO and MQ-2 Gas Sensor for Real-Time Gas Monitoring and Safety Alerts
 
-🛒 Grocery Billing System
+📱 **Android Mobile Sensor Tester** – Android Application for Testing Smartphone Sensors, Camera, and Flashlight
+
+🛒 **Grocery Billing System** – Desktop-Based Billing Application Developed using Python and Tkinter
+
+
+
+
 
 ---
 
