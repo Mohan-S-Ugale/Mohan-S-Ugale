@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohan Ugale
 
-<!--
-**Mohan-S-Ugale/Mohan-S-Ugale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Artificial Intelligence & Data Science Engineer
 
-Here are some ideas to get you started:
+I am passionate about building intelligent software solutions using AI, Machine Learning, Deep Learning, IoT, and Android Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. Artificial Intelligence & Data Science
+- 💻 Passionate about AI, Computer Vision & IoT
+- 🌱 Currently learning Advanced Deep Learning & MLOps
+- 🔍 Interested in Software Development and AI Engineering
+- 📍 Nashik, Maharashtra, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+- Python
+- Java
+- C++
+- C
+
+### AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- PyTorch
+- OpenCV
+- NumPy
+
+### Web Development
+
+- HTML
+- CSS
+- JavaScript
+- Flask
+
+### Mobile Development
+
+- Android Studio
+- Java
+- XML
+
+### IoT & Embedded
+
+- Arduino
+- Raspberry Pi
+- Sensors
+- GSM Module
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- Arduino IDE
+
+---
+
+## 📌 Featured Projects
+
+🐆 SentinelEye – ML-Based Wild Animal Intrusion Detection
+
+😊 Human Emotion Detection System
+
+🔥 IoT Gas Leakage Detection System
+
+📱 Android Mobile Sensor Tester
+
+🛒 Grocery Billing System
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/mohan-ugale
+- Email: mohanugale.tech@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
