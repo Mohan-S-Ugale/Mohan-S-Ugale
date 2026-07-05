@@ -34,19 +34,36 @@ I am an Artificial Intelligence & Data Science Engineer passionate about buildin
 
 ---
 
+
 ## 📌 Featured Projects
 
-🐆 **SentinelEye** – ML-Based Wild Animal Intrusion Detection System Using Raspberry Pi
+🐆 **[SentinelEye – Wild Animal Intrusion Detection System](https://github.com/Mohan-S-Ugale/SentinelEye-Wild-Animal-Intrusion-Detection-System)**  
+AI-powered wild animal intrusion detection system using Raspberry Pi, Deep Learning, Computer Vision, and Flask for real-time monitoring and alerts.
 
-🌱 **Agri Assist** – NPK-Based Soil Analysis and Crop Recommendation Web Application
+---
 
-😊 **Human Emotion Detection System** – Real-Time Emotion Recognition using Deep Learning, CNN, OpenCV, and Flask
+🌱 **[Agri Assist – NPK Soil Analysis](https://github.com/Mohan-S-Ugale/Agri-Assist-NPK-Soil-Analysis)**  
+Smart agriculture web application for NPK-based soil analysis, crop recommendation, and fertilizer suggestion.
 
-🔥 **IoT Gas Leakage Detection System** – Arduino UNO and MQ-2 Gas Sensor for Real-Time Gas Monitoring and Safety Alerts
+---
 
-📱 **Android Mobile Sensor Tester** – Android Application for Testing Smartphone Sensors, Camera, and Flashlight
+😊 **[Human Emotion Detection System](https://github.com/Mohan-S-Ugale/Human-Emotion-Detection-System)**  
+Real-time Human Emotion Detection using Deep Learning, CNN, OpenCV, and Flask.
 
-🛒 **Grocery Billing System** – Desktop-Based Billing Application Developed using Python and Tkinter
+---
+
+🔥 **[IoT Gas Leakage Detection System](https://github.com/Mohan-S-Ugale/IoT-Gas-Leakage-Detection-System)**  
+Arduino UNO and MQ-2 based real-time gas leakage monitoring and safety alert system.
+
+---
+
+📱 **[Android Mobile Sensor Tester](https://github.com/Mohan-S-Ugale/Android-Mobile-Sensor-Tester)**  
+Android application built using Java to test smartphone sensors, camera, and flashlight.
+
+---
+
+🛒 **[Grocery Billing System](https://github.com/Mohan-S-Ugale/Grocery-Billing-System-using-Python)**  
+Desktop-based grocery billing application developed in Python using Tkinter.
 
 ---
 
