@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Mohan Ugale Banner"/>
+</p>
+
 # Hi there 👋, I'm Mohan Ugale
 
 ## Artificial Intelligence & Data Science Engineer
