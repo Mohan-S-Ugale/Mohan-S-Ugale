@@ -2,7 +2,7 @@
 
 ## Artificial Intelligence & Data Science Engineer
 
-I am passionate about building intelligent software solutions using AI, Machine Learning, Deep Learning, IoT, and Android Development.
+I am an Artificial Intelligence & Data Science Engineer passionate about building intelligent software solutions using Machine Learning, Deep Learning, Computer Vision, IoT, and Android Development. I enjoy solving real-world problems through technology and continuously learning new tools and frameworks.
 
 ---
 
@@ -19,48 +19,14 @@ I am passionate about building intelligent software solutions using AI, Machine 
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
-- Python
-- Java
-- C++
-- C
-
-### AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- PyTorch
-- OpenCV
-- NumPy
-
-### Web Development
-
-- HTML
-- CSS
-- JavaScript
-- Flask
-
-### Mobile Development
-
-- Android Studio
-- Java
-- XML
-
-### IoT & Embedded
-
-- Arduino
-- Raspberry Pi
-- Sensors
-- GSM Module
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- Arduino IDE
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
 
 ---
 
@@ -78,9 +44,13 @@ I am passionate about building intelligent software solutions using AI, Machine 
 
 🛒 **Grocery Billing System** – Desktop-Based Billing Application Developed using Python and Tkinter
 
+---
 
+## 🏆 Achievements
 
+🥇 First Runner-up – UpXGen Hackathon 2023
 
+🥈 Second Winner – Institute-Level Smart India Hackathon (SIH) 2026
 
 ---
 
