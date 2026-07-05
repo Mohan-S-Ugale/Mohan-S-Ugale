@@ -42,7 +42,7 @@ I am an Artificial Intelligence & Data Science Engineer passionate about buildin
 | 🐆 **[SentinelEye](https://github.com/Mohan-S-Ugale/SentinelEye-Wild-Animal-Intrusion-Detection-System)** | AI-powered wild animal intrusion detection using Raspberry Pi, Deep Learning, OpenCV, and Flask. |
 | 🌱 **[Agri Assist](https://github.com/Mohan-S-Ugale/Agri-Assist-NPK-Soil-Analysis)** | NPK-based soil analysis, crop recommendation, and fertilizer suggestion system. |
 | 😊 **[Human Emotion Detection](https://github.com/Mohan-S-Ugale/Human-Emotion-Detection-System)** | Real-time emotion recognition using Deep Learning, CNN, OpenCV, and Flask. |
-| 🔥 **[IoT Based Gas Leakage Detection](https://github.com/Mohan-S-Ugale/IoT-Gas-Leakage-Detection-System)** | Arduino-based gas leakage monitoring and alert system. |
+| 🔥 **[IoT Gas Leakage Detection](https://github.com/Mohan-S-Ugale/IoT-Gas-Leakage-Detection-System)** | Arduino-based gas leakage monitoring and alert system. |
 | 📱 **[Android Mobile Sensor Tester](https://github.com/Mohan-S-Ugale/Android-Mobile-Sensor-Tester)** | Android app for testing smartphone sensors, camera, and flashlight. |
 | 🛒 **[Grocery Billing System](https://github.com/Mohan-S-Ugale/Grocery-Billing-System-using-Python)** | Python Tkinter desktop application for grocery billing. |
 
