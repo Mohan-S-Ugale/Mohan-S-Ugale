@@ -52,7 +52,7 @@ Real-time Human Emotion Detection using Deep Learning, CNN, OpenCV, and Flask.
 
 ---
 
-🔥 **[IoT Gas Leakage Detection System](https://github.com/Mohan-S-Ugale/IoT-Gas-Leakage-Detection-System)**  
+🔥 **[IoT Based Gas Leakage Detection System](https://github.com/Mohan-S-Ugale/IoT-Gas-Leakage-Detection-System)**  
 Arduino UNO and MQ-2 based real-time gas leakage monitoring and safety alert system.
 
 ---
