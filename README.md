@@ -60,7 +60,7 @@ I am an Artificial Intelligence & Data Science Engineer passionate about buildin
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohan-ugale)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:mohanugale.tech@gmail.com)
+- 📧 Email: **mohanugale.tech@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/mohan-ugale**
 
 ⭐ Thanks for visiting my profile!
