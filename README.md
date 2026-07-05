@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Mohan Ugale Banner"/>
+  <img src="Banner.png" width="100%" alt="Mohan Ugale Banner"/>
 </p>
 
 # Hi there 👋, I'm Mohan Ugale
